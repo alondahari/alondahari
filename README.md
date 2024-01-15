@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Nice to meet you. I am an enthusiastic software engineer passionate about collaborating with like-minded individuals to transform ideas into impactful code. 
+
+- ✍ I write about coding somewhat irregularly on [substack](https://jazzdragon.substack.com/).
+- 🔭 I’m currently working on [A.team](https://www.a.team/) projects as a freelance contributor.
+- 👯 I’m looking to collaborate on anything exciting, especially rust projects. I love improving developer experience.
+- 💬 Ask me about TypeScript, RoR, Coding principals, or how to parallel park on a busy street.
+
 <!--
 **jazzdragon/jazzdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

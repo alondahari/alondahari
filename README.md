@@ -3,7 +3,7 @@
 Nice to meet you. I am an enthusiastic software engineer passionate about collaborating with like-minded individuals to transform ideas into impactful code. 
 
 - ✍ I [write about code](https://alondahari.github.io/) somewhat irregularly.
-- 🔭 I’m currently working on [A.team](https://www.a.team/) projects as a freelance contributor.
+- 🔭 I’m currently working at GitHub on the issues and projects team.
 - 👯 I’m looking to collaborate on anything exciting, especially rust projects. I love improving developer experience.
 - 💬 Ask me about TypeScript, RoR, Coding principals, or how to parallel park on a busy street.
 

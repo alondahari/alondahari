@@ -7,6 +7,8 @@ Nice to meet you. I am an enthusiastic software engineer passionate about collab
 - 👯 I’m looking to collaborate on anything exciting, especially rust projects. I love improving developer experience.
 - 💬 Ask me about TypeScript, RoR, Coding principals, or how to parallel park on a busy street.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **alondahari/alondahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
